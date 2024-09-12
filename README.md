@@ -1,16 +1,13 @@
 # e_commerce_app_using_dio_package
 
-A new Flutter project.
+## Screenshots  
 
-## Getting Started
+![1000148019](https://github.com/user-attachments/assets/efe28a63-9e21-4154-ba4e-baf2391b350f)
 
-This project is a starting point for a Flutter application.
+## Screen recording 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/4785395c-256d-48c6-9b28-afb3d2c1913a
+
+
